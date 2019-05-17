@@ -18,3 +18,5 @@ Send GET request to the /series endpoint with IMBD id of a series as parameter
      npm run test
 #### Run
     npm run dev
+
+OMDB API requires an API key which can get obtained for free. This API key needs to be added to the environment variable with key 'OMDB_API_KEY'.
