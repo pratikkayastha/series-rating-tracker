@@ -1,0 +1,13 @@
+.app-container {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.main-header {
+  margin-top: 1em;
+}
+
+.clear {
+  clear: both;
+}
